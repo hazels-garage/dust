@@ -8,9 +8,9 @@
 
 ## ultrathin sweep-alike
 
-**dust** is my attempt at making the thinnest sweep-alike while experimenting.  Sacrifices were made.  XIAO is surface mounted to be reversible without jumpers.
+**dust** is my attempt at making the thinnest sweep-alike while experimenting.  Sacrifices were made.  XIAO is surface mounted to be reversible without jumpers.  There is no reset button because the xiao has one on it.  Wireless is possible, but soldering the battery connection on the XIAO is gonna suck.
 
-## MATERIALS
+## MATERIALS - WIP
 - 34x [Kailh X Switches](https://mkultra.click/kailh-x-switches-and-keycaps/)
 - 34x [1N4148 - SOD-123 Diodes](https://mkultra.click/diode-1n4148-sod-123f/)
 - 2x SeeedStudio XIAO (RP2040 or BLE)
@@ -19,8 +19,7 @@
 - 2x Battery (BLE)
 - 2x Battery Connector (BLE) _todo: find good source_
 
-## FIRMWARE
-** placeholder links **
+## FIRMWARE - WIP
 
 [QMK](https://github.com/jasonhazel/qmk_hazel/tree/master/keyboards/jasonhazel/dust)
 
