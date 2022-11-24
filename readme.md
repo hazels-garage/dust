@@ -2,7 +2,7 @@
 
 | Left | Right |
 | :---: | :---: |
-| ![left](images/top.png) | ![right](images/bottom.png) |
+| ![left](images/dust-top.png) | ![right](images/dust-bottom.png) |
 
 # UNTESTED PROTOTYPE!
 
