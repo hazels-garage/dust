@@ -1,14 +1,22 @@
 # dust
+# UNTESTED PROTOTYPE!
 
 | Left | Right |
 | :---: | :---: |
 | ![left](images/dust-top.png) | ![right](images/dust-bottom.png) |
 
-# UNTESTED PROTOTYPE!
 
 ## ultrathin sweep-alike
 
-**dust** is my attempt at making the thinnest sweep-alike while experimenting.  Sacrifices were made.  XIAO is surface mounted to be reversible without jumpers.  There is no reset button because the xiao has one on it.  Wireless is possible, but soldering the battery connection on the XIAO is gonna suck.
+**dust** is my attempt at making the thinnest sweep-alike while experimenting.
+
+### Sacrifices were made.  
+
+- XIAO is surface mounted to be reversible without jumpers.  
+- There is no reset button because the xiao has one on it.  
+- Soldering the battery connection on the XIAO is gonna suck.
+- The XSwitch and XIAO footprints were created by me and _might_ work.  
+- There is a good chance this won't work at all in its current state
 
 ## MATERIALS - WIP
 - 34x [Kailh X Switches](https://mkultra.click/kailh-x-switches-and-keycaps/)
