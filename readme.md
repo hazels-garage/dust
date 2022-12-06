@@ -7,17 +7,14 @@
 
 ## ultrathin sweep-alike
 
-**dust** is my attempt at making the thinnest sweep-alike while experimenting.  In theory, this could be as low as 7mm total. 🤞
-
+**dust** is my attempt at making the thinnest sweep-alike.
 ### Sacrifices were made.  
 
 - XIAO is surface mounted to be reversible without jumpers.  
 - There is no reset button because the xiao has one on it.  
 - Soldering the battery connection on the XIAO is gonna suck.
 - You're probably gonna need to tape the battery to the board.
-- The XSwitch and XIAO footprints were created by me and _might_ work.  
-- There is a good chance this won't work at all in its current state
-- I could've done 36 key, but then I wouldn't have enough X Switches to build a 36 key later.
+
 
 ## MATERIALS
 - 34x [Kailh X Switches](https://www.aliexpress.us/item/2251832799288171.html)
