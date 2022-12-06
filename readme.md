@@ -20,14 +20,14 @@
 - There is a good chance this won't work at all in its current state
 - I could've done 36 key, but then I wouldn't have enough X Switches to build a 36 key later.
 
-## MATERIALS - WIP
-- 34x [Kailh X Switches](https://mkultra.click/kailh-x-switches-and-keycaps/)
-- 34x [1N4148 - SOD-123 Diodes](https://mkultra.click/diode-1n4148-sod-123f/)
+## MATERIALS
+- 34x [Kailh X Switches](https://www.aliexpress.us/item/2251832799288171.html)
+- 34x [1N4148 - SOD-123 Diodes](https://www.aliexpress.us/item/3256801606142520.html)
 - 2x SeeedStudio XIAO (RP2040 or BLE)
-- 2x TRRS Jack (RP2040)
+- 2x [TRRS Jack](https://www.aliexpress.us/item/3256801742337046.html) (RP2040)
 - 2x [Power Switch](https://mkultra.click/alps-ssss811101/) (BLE)
-- 2x Battery (BLE)
-- 2x Battery Connector (BLE) _todo: find good source_
+- 2x [Battery](https://tinycircuits.com/collections/all/products/lithium-ion-polymer-battery-3-7v-40mah) (BLE)
+- 2x [Battery Connector](https://www.aliexpress.us/item/3256803789364982.html) (BLE)
 
 ## FIRMWARE - WIP
 
