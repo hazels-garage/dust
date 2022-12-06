@@ -1,5 +1,4 @@
 # dust
-# UNTESTED PROTOTYPE!
 
 | Left | Right |
 | :---: | :---: |
