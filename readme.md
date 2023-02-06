@@ -1,11 +1,14 @@
 # dust
+## ultrathin sweep-alike
+
+![top](images/PXL_20221206_002310840.MP2.jpg)
+![side](images/PXL_20221206_002219334.MP.jpg)
+
 
 | Left | Right |
 | :---: | :---: |
 | ![left](images/dust-top.png) | ![right](images/dust-bottom.png) |
 
-
-## ultrathin sweep-alike
 
 **dust** is my attempt at making the thinnest sweep-alike.
 ### Sacrifices were made.  
