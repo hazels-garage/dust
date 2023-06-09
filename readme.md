@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/hazels-garage/battpack?label=%20&logo=creativecommons&logoColor=%23ffffff&style=flat-square)
+![GitHub](https://img.shields.io/github/license/hazels-garage/dust?label=%20&logo=creativecommons&logoColor=%23ffffff&style=flat-square)
 <a href="https://discord.gg/jP6hvgNN8r">
   ![Discord](https://img.shields.io/discord/989552667330228374?color=%237289da&label=%20&logo=discord&logoColor=%23fff&style=flat-square)
 </a>
